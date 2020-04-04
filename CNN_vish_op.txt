@@ -1,0 +1,5 @@
+runfile('C:/Users/Vishnu/Desktop/ineuron/CNN/cnn_vish.py', wdir='C:/Users/Vishnu/Desktop/ineuron/CNN')
+Found 31 images belonging to 3 classes.
+Found 31 images belonging to 3 classes.
+Epoch 1/1
+ 999/1000 [============================>.] - ETA: 6s - loss: 0.0171 - accuracy: 0.9933     
